@@ -1,2 +1,0 @@
-Heartify is an Ai powered heart disease risk prediction system built by leveraging federated learning. We have 2 main users of this system- patient and doctor. We also have an alert system that sends alerts to patients,doctor and emergency contacts.
-Overall even though the project may be common, applying federating learning to this system is what makes it better and unique. If built on large scale, it could be used in hospitals too.
